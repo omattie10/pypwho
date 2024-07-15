@@ -84,14 +84,14 @@ AMENITIES = {
 }
 
 INVENTORY_OLD = [
-"Chinese Assault Rifle",
-"Combat Shotgun",
-"Deathclaw Gauntlet",
-"Flamer",
-"Hunting Rifle",
-"Minigun",
-"Missile Launcher",
-"Pulse Grenade (2)"
+"Dalek Energy Weapon",
+"Cyber-Weapon",
+"Ressurection Gauntlet",
+"Exterminator",
+"Handles :D",
+"K9",
+"Sonic Screwdriver",
+"Warp Star"
 ]
 
 
