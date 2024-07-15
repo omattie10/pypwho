@@ -12,14 +12,14 @@ class Module(pypboy.SubModule):
 		handlers = []
 		item_names = []
 		INVENTORY = [
-			Weapon('Chinese Assault Rifle','images/inventory/flamer.png',0,0,0,0,''),
-			Weapon('Combat Shotgun','images/inventory/flamer.png',0,0,0,0,''),
-			Weapon('Deathclaw Gauntlet','images/inventory/flamer.png',0,0,0,0,''),
-			Weapon('Flamer','images/inventory/flamer.png',20,10,250,100,''),
-			Weapon('Hunting Rifle','images/inventory/flamer.png',0,0,0,0,''),
-			Weapon('Minigun','images/inventory/flamer.png',0,0,0,0,''),
-			Weapon('Missile Launcher','images/inventory/flamer.png',0,0,0,0,''),
-			Weapon('Pulse Grenade (2)','images/inventory/flamer.png',0,0,0,0,'')
+			Weapon('Dalek Energy Weapon','images/inventory/flamer.png',0,0,0,0,''),
+			Weapon('Cyber-Weapon','images/inventory/flamer.png',0,0,0,0,''),
+			Weapon('Ressurection Gauntlet','images/inventory/flamer.png',0,0,0,0,''),
+			Weapon('Exterminator','images/inventory/flamer.png',20,10,250,100,''),
+			Weapon('Handles :D','images/inventory/flamer.png',0,0,0,0,''),
+			Weapon('K9','images/inventory/flamer.png',0,0,0,0,''),
+			Weapon('Sonic Screwdriver','images/inventory/flamer.png',0,0,0,0,''),
+			Weapon('Warp Star','images/inventory/flamer.png',0,0,0,0,'')
 		]
 		selected = 3
 		for i in INVENTORY:
