@@ -14,7 +14,9 @@ Supports caching and offline loading of maps.
 * In config.py set 'LOAD_CACHED_MAP = True'
 * Pypboy will now load the cached map on starting
 
-## Autors
+## Authors
+* doctor who inspired themes by omattie10<br>
+-- below this is from the previous fork that i forked this from--<br>
 * Fixes and Updates by Goldstein
 
 * Updates by Sabas of The Inventor's House Hackerspace
