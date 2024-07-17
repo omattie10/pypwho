@@ -1,4 +1,4 @@
-pypboy
+whoboy / pypwho
 ======
 
 Remember that one Python Pip-Boy 3000 project? Neither do we!<br>
